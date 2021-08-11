@@ -2,7 +2,7 @@ import {BrowserRouter as Router, Route} from 'react-router-dom';
 
 import Home from './pages/Home';
 import About from './pages/About';
-import ArticleList from './pages/ArticleList';
+import ArticleList from './pages/Article List';
 import Article from './pages/Article';
 
 import NavBar from './components/NavBar';
